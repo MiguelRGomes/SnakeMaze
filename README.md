@@ -3,7 +3,8 @@ Bem-vindo ao Snake Maze, um emocionante jogo onde seu objetivo é guiar a cobra 
 
 # Como Jogar
 Objetivo: Comer o máximo de maçãs possível para fazer a cobra crescer.
-Movimentação: Utilize as teclas A e D para movimentar a cobra.
+
+# Movimentação: Utilize as teclas A e D para movimentar a cobra.
 A: Virar a cobra para a esquerda.
 D: Virar a cobra para a direita.
 
